@@ -1,54 +1,15 @@
- "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler 
-# Real-Estates
-This is a project where all real-estates business has been done.
+**Hey visitor**
 
-## Installation
+Welcome to my repository where I showcase my Laravel API project for **Jay shree kali.**
 
-You can install the project by clone:
+Laravel is a PHP framework that provides a simple and elegant way to create web applications and APIs. It has many features that make development easier and faster, such as Eloquent ORM, Blade templating engine, authentication, validation, testing, and more.
 
-```bash
-git clone https://github.com/FortranCoder/real-estates.git
-```
+In this project, I use Laravel to build a RESTful API that exposes some endpoints for managing users transaction keepking records. I follow the best practices of API design, such as using HTTP verbs, status codes, pagination, data wrapping, and conditional attributes. I also use Laravel's resource classes to transform my Eloquent models into JSON responses.
 
-# Run the project
-create file named ".env" add copy the content of .env.example and change 
+If you want to learn more about Laravel and how to build and test APIs with it, you can check out some of the resources I used:***
 
-```bash
-DB_DATABASE=
-DB_USERNAME=
-DB_PASSWORD=
-```
+- Laravel official documentation: https://laravel.com/docs/10.x
+- Laravel API tutorial by Toptal: https://www.toptal.com/laravel/restful-laravel-api-tutorial
+- Laravel API reference: https://laravel.com/api/8.x/
 
-so on as required for starting above mention will do the job.
-Hopfully you have install composer and npm in your device
-
-Run Command :
-```bash
- Composer install 
-
-```
-```bash
-// To install the packages
- npm install 
-
-// To run the npm
-  npm run watch 
-```
-
-Now serve  
-```bash
-php artisan ser
-```
-**Have Good day developer and  Happy Coding.**
-
-## Testing
-
-```bash
-composer test
-```
-
-## Format the Laravel PSR-2
-
-```bash
-composer format
-```
+Thank you for visiting my repository and feel free to leave your feedback or questions.
